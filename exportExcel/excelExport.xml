@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+
+<ExcelExport>
+  <icons>
+    <exitButton>C:\Users\abcda\Desktop\ExcelAktar\icons\quit.png</exitButton>
+	<hideButton>C:\Users\abcda\Desktop\ExcelAktar\icons\hide.png</hideButton>
+  </icons>
+  <htmlFile>C:\Users\abcda\Desktop\ExcelAktar\kargo_bilgisi.html</htmlFile>
+  <excelFile>C:\Users\abcda\Desktop\ExcelAktar\KargoTakip.xlsx</excelFile>  
+</ExcelExport>  
